@@ -516,3 +516,10 @@ footer .container .icon a:hover {
     font-size: 60%;
   }
 }
+
+/* MOBILE */
+@media (max-width: 326px) {
+  html {
+    font-size: 40%;
+  }
+}
